@@ -5,15 +5,15 @@ date: "Dec 11 2024"
 draft: true
 ---
 
-Have you ever wondered if that open source project you're relying on will still be maintained next year? It's a question I've been thinking about a lot recently. Every time I add a new dependency or build on top of someone else's work, I'm making a bet on the future. Some bets are safer than others. Maybe a library with 50,000 will stick around for another 5 years. But what about those hidden gems with a few hundred stars that solve your exact problem but might be archived tomorrow?
+Have you ever wondered if that open source project you're relying on will still be maintained next year? It's a question I've been thinking about a lot recently. Every time I add a new dependency or build on top of someone else's work, I'm making a bet on the future. Some bets are safer than others. Maybe a library with 50,000 stars will stick around for another 5 years. But what about those hidden gems with a few hundred stars that solve your exact problem but might be archived tomorrow?
 
 > > How do I know what the bet on?
 
 That was the question gnawing at my mind as I sat down at my desk to kick off another side-project.
 
-Nobody, as far as I could tell at the time, had attempted to predict the exact day of software abandonment. To some extent, this makes total sense - why would any bother? Predicting an exact "death day" is futile. It's dependent on countless intangibles and trivial events. Perhaps the primary maintainer has missed their regular coffee that morning. Or maybe they had a bad interaction with another developer that finally caused them to throw in the towel. Prediction, I feared, may not actually be possible.
+Nobody, as far as I could tell at the time, had attempted to predict the exact day of software abandonment. To some extent, this made total sense - why would any bother? Predicting an exact "death day" is futile. It's dependent on countless intangibles and trivial events. Perhaps the primary maintainer has missed their regular coffee that morning. Or maybe they had a bad interaction with another developer that finally caused them to throw in the towel. I worried that prediction may not actually be possible.
 
-Despite concerns, as is often the case with side projects before getting stuck into the actual hard graft, I imagined the it would at least be fun. I was also spurred on by the fact that the project seemed _almost_ failure-proof; even an "in-the-ballpark" prediction about anticipated project abandonment could provide a useful frame of reference for software teams; ultimately, it's a conversation-starter to help engineers assess whether the benefit of using a particular piece of software aligns with their risk appetite for its death.
+Despite concerns, as is often the case with side projects before getting stuck into the actual hard graft, I imagined that trying would at least be fun. I was also spurred on by the fact that the project seemed _almost_ failure-proof; even an "in-the-ballpark" prediction about anticipated project abandonment could provide a useful frame of reference for software teams; ultimately, it's a conversation-starter to help engineers assess whether the benefit of using a particular piece of software aligns with their risk appetite for its death.
 
 Most importantly, I'd also come up with a killer name, Github Graveyard, worth 5 or possibly 6 upvotes on Reddit.
 
