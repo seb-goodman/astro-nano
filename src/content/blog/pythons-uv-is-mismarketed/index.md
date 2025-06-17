@@ -17,7 +17,7 @@ My pet theory for uv's somewhat leisurely rise to Python stardom is its one sent
 
 > "An extremely fast Python package and project manager, written in Rust."
 
-On the face of it, this seems perfectly descriptive. What is it failing to communicate?
+On the face of it, this seems perfectly descriptive. What is it failing to communicate? And why don't people care?
 
 Yes, uv _is_ fast. _Really_ fast. When your CI/CD pipeline drops from 5 minutes to 30 seconds and when your Docker builds shrink, speed like this actually matters. And this does have a compounding effect when it's used day-to-day. But even then, speed isn't quite the main appeal of uv for me, and I suspect it's not the appeal of uv for most Python developers who use it, nor 'would-be' uv converts.
 
