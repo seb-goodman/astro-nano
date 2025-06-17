@@ -1,7 +1,7 @@
 ---
 title: "Self-Contained Python Scripts with uv and Shebang Lines"
 description: "How to create self-contained Python scripts with automatic dependency management using uv."
-date: "Jan 29 2025"
+date: "June 15 2025"
 ---
 
 I create a fair few scripts in my `~/bin/` directory to automate tasks. Since discovering uv and inline script metadata, I've started using Python far more for these. After reading [Rob Allen's post](https://akrabat.com/using-uv-as-your-shebang-line/) about this technique, I've been using it extensively and wanted to share my experience.

@@ -1,7 +1,7 @@
 ---
 title: "Python's uv Is Mismarketed: It's Not About Speed"
 description: "Astral thinks uv's superpower is speed. It isn't."
-date: "Dec 11 2024"
+date: "Jun 17 2025"
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Using Qdrant as a Relational Database"
 description: "Ok, well, almost"
-date: "Jan 29 2025"
+date: "Jun 11 2025"
 ---
 
 Qdrant is a "vector database" but it can also function quite happily **as a relational database** for many traditional use cases, thanks to its powerful payload system.

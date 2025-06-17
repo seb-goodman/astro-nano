@@ -1,7 +1,7 @@
 ---
 title: "Type Punning in C++: A Simple Guide"
 description: "A play on types"
-date: "12/31/2022"
+date: "June 12 2025"
 draft: false
 ---
 
